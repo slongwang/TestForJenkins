@@ -5,11 +5,11 @@
     <!-- =================================================================== -->
 
     <!-- 源代码src路径 -->
-    <property name="src.path" value="src/java"/>
+    <property name="src.path" value="src/testForJenkins"/>
     <!-- 编译文件class路径 -->
     <property name="build.path" value="build"/>
     <!-- 单元测试代码路径 -->
-    <property name="test.path" value="src/test"/>
+    <property name="test.path" value="src/testForJenkins"/>
     <!-- lib包路径 -->
     <property name="lib.path" value="lib"/>         
         
