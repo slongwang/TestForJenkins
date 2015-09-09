@@ -10,8 +10,6 @@
     <property name="build.path" value="build"/>
     <!-- 单元测试代码路径 -->
     <property name="test.path" value="src/testForJenkins"/>
-    <!-- lib包路径 -->
-    <property name="lib.path" value="lib"/>         
         
     <!-- =================================================================== -->
     <!-- 设置classpath -->
